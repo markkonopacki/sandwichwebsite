@@ -1,0 +1,57 @@
+h1 {
+    color:darkslateblue;
+    background-color:lightgray;
+    font-size: 200%;
+    text-align: center;
+    font-family:cursive;
+    padding:30px;
+}
+#overview {
+font-size: 130%;
+    font-family:cursive;
+}
+#sandwiches{
+    font-size:130%;
+    font-family:cursive;
+    
+    
+}
+.center {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:20%;
+    height:20%;
+    
+    
+    
+}
+.videoa { 
+    position:absolute;
+    margin:auto;
+    top:50%;
+    left:50%
+    transform:translate(-50%, -50%);
+    
+    
+}
+  table {
+        border-collapse: collapse;
+        width:100%;
+        
+        
+        }
+#ingredients {
+    font-family:serif;
+    font-size:130%;
+    
+}
+#footer {
+    text-align:center;
+    font-family: cursive;
+}
+#source {
+    font-size:200%;
+    font-family:cursive;
+    
+}
